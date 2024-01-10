@@ -54,4 +54,5 @@ Following these steps should allow you to set up and run the To-Do List applicat
 
 **Screenshots**
 1. ![WebDev-1](https://github.com/Manognagrandhi/keka-techno_Mobile-Dev/assets/111331923/1f0613fc-3248-40d3-8bce-cbb4cb410ada)
-2. 
+2. ![WebDev-2](https://github.com/Manognagrandhi/keka-techno_Mobile-Dev/assets/111331923/8e120af6-3fa3-4448-aae5-17b268d2ba57)
+3. ![WebDev-3](https://github.com/Manognagrandhi/keka-techno_Mobile-Dev/assets/111331923/d1e7bb67-7fb3-401e-b36b-3f388a9d23a2)
